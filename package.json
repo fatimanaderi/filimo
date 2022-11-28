@@ -27,7 +27,8 @@
     "eslint-webpack-plugin": "^3.1.1",
     "miragejs": "^0.1.43",
     "postcss-rtlcss": "^3.5.4",
-    "prettier": "^2.5.1"
+    "prettier": "^2.5.1",
+    "workbox-webpack-plugin": "^6.5.4"
   },
   "browserslist": [
     "last 10 Chrome versions",
