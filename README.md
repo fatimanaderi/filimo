@@ -1,4 +1,4 @@
-# filimo (filimo)
+# Filimo
 
 video and film
 
